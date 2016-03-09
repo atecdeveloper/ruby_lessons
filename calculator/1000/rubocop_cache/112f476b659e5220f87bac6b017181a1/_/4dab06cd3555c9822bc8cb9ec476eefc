@@ -1,0 +1,1 @@
+[{"severity":"error","location":{"begin_pos":681,"end_pos":682},"message":"unexpected token tAMPER\n(Using Ruby 2.0 parser; configure using `TargetRubyVersion` parameter, under `AllCops`)","cop_name":"Syntax","status":"uncorrected"}]
